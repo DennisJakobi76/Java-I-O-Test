@@ -1,0 +1,10 @@
+package javaioexamples;
+
+public class CopyingAFile {
+
+    public static void main(String[] args) {
+
+
+
+    }
+}
